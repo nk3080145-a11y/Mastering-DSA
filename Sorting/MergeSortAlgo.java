@@ -1,4 +1,4 @@
-public class MergeSort{
+public class MergeSortAlgo {
     public static void mergeSort(int[] arr){
         int n = arr.length;
         if(n==1) return;
