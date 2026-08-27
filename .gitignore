@@ -1,4 +1,14 @@
+# Compiled class files
 out/
+*.class
+.vscode
+
+# IntelliJ IDEA project files
 .idea/
 *.iml
-.vscode/
+*.iws
+*.ipr
+
+# OS generated files
+.DS_Store
+Thumbs.db
